@@ -16,6 +16,6 @@ zepto.slider 基于zepto的移动图片轮播插件，依赖zepto.js
 
 
 ##Issues
-- [report question](https://github.com/xurui/zepto.slider/issues "report question")
+- [report question](https://github.com/xurui3762791/zepto.slider/issues "report question")
 
 
